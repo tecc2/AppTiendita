@@ -1,0 +1,8 @@
+D:\development\Project_Base\Project_Base\bin\Debug\Project_Base.exe.config
+D:\development\Project_Base\Project_Base\bin\Debug\Project_Base.exe
+D:\development\Project_Base\Project_Base\bin\Debug\Project_Base.pdb
+D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.csprojResolveAssemblyReference.cache
+D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.Properties.Resources.resources
+D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.csproj.GenerateResource.Cache
+D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.exe
+D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.pdb
