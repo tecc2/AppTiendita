@@ -6,3 +6,4 @@ D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.Properties.Resou
 D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.csproj.GenerateResource.Cache
 D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.exe
 D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.pdb
+C:\Users\DevTequilaUser\Documents\GitHub\AppTiendita\codigo\Project_Base\Project_Base\bin\Debug\Project_Base.exe.config
